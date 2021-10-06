@@ -32,3 +32,9 @@ text-align: left;
 #cd{
 text-align: right;
 }
+#church {
+    width: 400px;
+    height: 300px;
+    border: black 1px;
+    border-radius: 50%;
+}
